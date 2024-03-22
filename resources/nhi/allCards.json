@@ -1,6 +1,8 @@
 {
   "cardsGroups" : [
     {
+      "title" : "Couples",
+      "imageName" : "Type-Couples",
       "cards" : [
         {
           "cardText" : "в категории couples не делал что-то под номером 0"
@@ -306,10 +308,11 @@
           "cardText" : "в категории couples не делал что-то под номером 100"
         }
       ],
-      "category" : "couples",
-      "imageName" : "Type-Couples"
+      "category" : "couples"
     },
     {
+      "title" : "Pre-Party",
+      "imageName" : "Type-Party",
       "cards" : [
         {
           "cardText" : "в категории party не делал что-то под номером 0"
@@ -615,10 +618,11 @@
           "cardText" : "в категории party не делал что-то под номером 100"
         }
       ],
-      "category" : "party",
-      "imageName" : "Type-Party"
+      "category" : "party"
     },
     {
+      "title" : "Funny-Level",
+      "imageName" : "Type-Fun",
       "cards" : [
         {
           "cardText" : "в категории fun не делал что-то под номером 0"
@@ -924,10 +928,11 @@
           "cardText" : "в категории fun не делал что-то под номером 100"
         }
       ],
-      "category" : "fun",
-      "imageName" : "Type-Fun"
+      "category" : "fun"
     },
     {
+      "title" : "XXX",
+      "imageName" : "Type-Adult",
       "cards" : [
         {
           "cardText" : "в категории adult не делал что-то под номером 0"
@@ -1233,10 +1238,11 @@
           "cardText" : "в категории adult не делал что-то под номером 100"
         }
       ],
-      "category" : "adult",
-      "imageName" : "Type-Adult"
+      "category" : "adult"
     },
     {
+      "title" : "Cinema",
+      "imageName" : "Type-Cinema",
       "cards" : [
         {
           "cardText" : "в категории cinema не делал что-то под номером 0"
@@ -1542,10 +1548,11 @@
           "cardText" : "в категории cinema не делал что-то под номером 100"
         }
       ],
-      "category" : "cinema",
-      "imageName" : "Type-Cinema"
+      "category" : "cinema"
     },
     {
+      "title" : "Friends",
+      "imageName" : "Type-Friends",
       "cards" : [
         {
           "cardText" : "в категории friends не делал что-то под номером 0"
@@ -1851,8 +1858,7 @@
           "cardText" : "в категории friends не делал что-то под номером 100"
         }
       ],
-      "category" : "friends",
-      "imageName" : "Type-Friends"
+      "category" : "friends"
     }
   ]
 }

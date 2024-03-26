@@ -1,0 +1,263 @@
+{
+  "title" : "Friends",
+  "imageName" : "Type-Friends",
+  "cardsCount" : 0,
+  "category" : "friends",
+  "cards" : [
+    {
+      "cardTextEN" : "anything in the friends category at 0",
+      "id" : "01B8298A-A3F5-4B6B-9FB4-5C9284831805",
+      "cardTextRU" : "в категории friends не делал что-то под номером 0"
+    },
+    {
+      "cardTextEN" : "anything in the friends category at 1",
+      "id" : "AFBCFA03-6AFF-4F2B-BEE8-1FFB0D92186A",
+      "cardTextRU" : "в категории friends не делал что-то под номером 1"
+    },
+    {
+      "cardTextEN" : "anything in the friends category at 2",
+      "id" : "398192EC-678B-40E9-BDBB-B6E26845C2D7",
+      "cardTextRU" : "в категории friends не делал что-то под номером 2"
+    },
+    {
+      "cardTextEN" : "anything in the friends category at 3",
+      "id" : "B9C51E35-0BBC-4829-A752-C4AFA24F85AF",
+      "cardTextRU" : "в категории friends не делал что-то под номером 3"
+    },
+    {
+      "cardTextEN" : "anything in the friends category at 4",
+      "id" : "6D804227-7FA8-4715-9117-95B977BC8C8E",
+      "cardTextRU" : "в категории friends не делал что-то под номером 4"
+    },
+    {
+      "cardTextEN" : "anything in the friends category at 5",
+      "id" : "193896C2-0032-4655-9761-028B48B38EB9",
+      "cardTextRU" : "в категории friends не делал что-то под номером 5"
+    },
+    {
+      "cardTextEN" : "anything in the friends category at 6",
+      "id" : "689E5E2E-922C-4B26-A880-3EAF4129B0F0",
+      "cardTextRU" : "в категории friends не делал что-то под номером 6"
+    },
+    {
+      "cardTextEN" : "anything in the friends category at 7",
+      "id" : "2CD248CC-D5AC-4F57-A176-13F8A29768FA",
+      "cardTextRU" : "в категории friends не делал что-то под номером 7"
+    },
+    {
+      "cardTextEN" : "anything in the friends category at 8",
+      "id" : "FA30B12C-DEE1-4A53-AEF9-C67908E4F4A7",
+      "cardTextRU" : "в категории friends не делал что-то под номером 8"
+    },
+    {
+      "cardTextEN" : "anything in the friends category at 9",
+      "id" : "B9455BE9-E79D-44A9-92C4-5E5F4086301E",
+      "cardTextRU" : "в категории friends не делал что-то под номером 9"
+    },
+    {
+      "cardTextEN" : "anything in the friends category at 10",
+      "id" : "59FFDA59-5742-4E39-BC04-CAD7FCCF992A",
+      "cardTextRU" : "в категории friends не делал что-то под номером 10"
+    },
+    {
+      "cardTextEN" : "anything in the friends category at 11",
+      "id" : "5F5557E3-E533-43AF-94E6-64BDD790B8AC",
+      "cardTextRU" : "в категории friends не делал что-то под номером 11"
+    },
+    {
+      "cardTextEN" : "anything in the friends category at 12",
+      "id" : "CF08D746-C5FA-4BBC-BE20-93F414FC5649",
+      "cardTextRU" : "в категории friends не делал что-то под номером 12"
+    },
+    {
+      "cardTextEN" : "anything in the friends category at 13",
+      "id" : "B02E8437-07C7-47F3-B283-F40545309962",
+      "cardTextRU" : "в категории friends не делал что-то под номером 13"
+    },
+    {
+      "cardTextEN" : "anything in the friends category at 14",
+      "id" : "5682FD70-8D66-4ED1-83E9-322A65675005",
+      "cardTextRU" : "в категории friends не делал что-то под номером 14"
+    },
+    {
+      "cardTextEN" : "anything in the friends category at 15",
+      "id" : "8EA87853-D661-44BD-96C6-C022DF46C32A",
+      "cardTextRU" : "в категории friends не делал что-то под номером 15"
+    },
+    {
+      "cardTextEN" : "anything in the friends category at 16",
+      "id" : "EE091EFE-7486-4F5D-A429-99D20DDD4496",
+      "cardTextRU" : "в категории friends не делал что-то под номером 16"
+    },
+    {
+      "cardTextEN" : "anything in the friends category at 17",
+      "id" : "064D7008-B1D5-47D5-9E85-B2E97B9DA4FA",
+      "cardTextRU" : "в категории friends не делал что-то под номером 17"
+    },
+    {
+      "cardTextEN" : "anything in the friends category at 18",
+      "id" : "191DB23F-DCAC-4C92-9226-2CABABEC9C78",
+      "cardTextRU" : "в категории friends не делал что-то под номером 18"
+    },
+    {
+      "cardTextEN" : "anything in the friends category at 19",
+      "id" : "0B9F74F5-F1A5-43FC-AE49-0D1B0150727B",
+      "cardTextRU" : "в категории friends не делал что-то под номером 19"
+    },
+    {
+      "cardTextEN" : "anything in the friends category at 20",
+      "id" : "D074D9F9-D040-467A-A84E-92C74F7E315B",
+      "cardTextRU" : "в категории friends не делал что-то под номером 20"
+    },
+    {
+      "cardTextEN" : "anything in the friends category at 21",
+      "id" : "D1562F08-5C85-484D-AE0A-91B48D08767E",
+      "cardTextRU" : "в категории friends не делал что-то под номером 21"
+    },
+    {
+      "cardTextEN" : "anything in the friends category at 22",
+      "id" : "B26AF773-67E2-4549-94A2-CC6CC6CE2854",
+      "cardTextRU" : "в категории friends не делал что-то под номером 22"
+    },
+    {
+      "cardTextEN" : "anything in the friends category at 23",
+      "id" : "2A97B656-1443-45AD-B423-047737B1605A",
+      "cardTextRU" : "в категории friends не делал что-то под номером 23"
+    },
+    {
+      "cardTextEN" : "anything in the friends category at 24",
+      "id" : "AC033233-9AA8-4815-83D7-5E916490D55D",
+      "cardTextRU" : "в категории friends не делал что-то под номером 24"
+    },
+    {
+      "cardTextEN" : "anything in the friends category at 25",
+      "id" : "C7A821F7-390A-49CB-A3A6-52E67A92AB49",
+      "cardTextRU" : "в категории friends не делал что-то под номером 25"
+    },
+    {
+      "cardTextEN" : "anything in the friends category at 26",
+      "id" : "AB0B6C1B-AB68-431F-BE8D-F0D68B536C4D",
+      "cardTextRU" : "в категории friends не делал что-то под номером 26"
+    },
+    {
+      "cardTextEN" : "anything in the friends category at 27",
+      "id" : "738BC8E2-69FF-4DB2-B2E8-8101A59D64AF",
+      "cardTextRU" : "в категории friends не делал что-то под номером 27"
+    },
+    {
+      "cardTextEN" : "anything in the friends category at 28",
+      "id" : "B1879C47-6275-4D5E-A371-8248CCB9415F",
+      "cardTextRU" : "в категории friends не делал что-то под номером 28"
+    },
+    {
+      "cardTextEN" : "anything in the friends category at 29",
+      "id" : "429319A1-38BB-439F-A41E-23DBA6E9BF63",
+      "cardTextRU" : "в категории friends не делал что-то под номером 29"
+    },
+    {
+      "cardTextEN" : "anything in the friends category at 30",
+      "id" : "90FD7F4A-8AC2-4F0C-A9A3-B8F321E40ABE",
+      "cardTextRU" : "в категории friends не делал что-то под номером 30"
+    },
+    {
+      "cardTextEN" : "anything in the friends category at 31",
+      "id" : "12DB5824-7CF7-4CBE-BD15-7F051C2110D6",
+      "cardTextRU" : "в категории friends не делал что-то под номером 31"
+    },
+    {
+      "cardTextEN" : "anything in the friends category at 32",
+      "id" : "E7C4DBA1-A8E6-40E0-B6A3-6CD8A237A932",
+      "cardTextRU" : "в категории friends не делал что-то под номером 32"
+    },
+    {
+      "cardTextEN" : "anything in the friends category at 33",
+      "id" : "94D06E79-3EDB-452C-8125-1BD9ACA90E81",
+      "cardTextRU" : "в категории friends не делал что-то под номером 33"
+    },
+    {
+      "cardTextEN" : "anything in the friends category at 34",
+      "id" : "18C8F2FF-4964-448E-B0FB-5F5529F0AE7A",
+      "cardTextRU" : "в категории friends не делал что-то под номером 34"
+    },
+    {
+      "cardTextEN" : "anything in the friends category at 35",
+      "id" : "2BD456DB-CDD0-4B5C-A0E6-66FEF3C063E4",
+      "cardTextRU" : "в категории friends не делал что-то под номером 35"
+    },
+    {
+      "cardTextEN" : "anything in the friends category at 36",
+      "id" : "BDA519C5-C7B3-46D1-BB9C-C500A33A4D2C",
+      "cardTextRU" : "в категории friends не делал что-то под номером 36"
+    },
+    {
+      "cardTextEN" : "anything in the friends category at 37",
+      "id" : "C69D4092-C68C-476F-A6D0-88F917889527",
+      "cardTextRU" : "в категории friends не делал что-то под номером 37"
+    },
+    {
+      "cardTextEN" : "anything in the friends category at 38",
+      "id" : "C1C64694-A056-451D-A7BC-A07E32ECF50C",
+      "cardTextRU" : "в категории friends не делал что-то под номером 38"
+    },
+    {
+      "cardTextEN" : "anything in the friends category at 39",
+      "id" : "05BBD754-D5DA-404A-A1C2-D743FE636A1E",
+      "cardTextRU" : "в категории friends не делал что-то под номером 39"
+    },
+    {
+      "cardTextEN" : "anything in the friends category at 40",
+      "id" : "5B99E834-F4AA-4B4F-8A1F-1DAFCB190D5C",
+      "cardTextRU" : "в категории friends не делал что-то под номером 40"
+    },
+    {
+      "cardTextEN" : "anything in the friends category at 41",
+      "id" : "0B054E63-4993-42BB-9C58-13555E3F5AF3",
+      "cardTextRU" : "в категории friends не делал что-то под номером 41"
+    },
+    {
+      "cardTextEN" : "anything in the friends category at 42",
+      "id" : "E6E8C1AF-44E1-4AF6-A524-F21806856ED1",
+      "cardTextRU" : "в категории friends не делал что-то под номером 42"
+    },
+    {
+      "cardTextEN" : "anything in the friends category at 43",
+      "id" : "A39920A4-DC56-4076-A914-FDE4E464B841",
+      "cardTextRU" : "в категории friends не делал что-то под номером 43"
+    },
+    {
+      "cardTextEN" : "anything in the friends category at 44",
+      "id" : "EEE71FF2-AB60-49D1-9A24-9FB09213AF53",
+      "cardTextRU" : "в категории friends не делал что-то под номером 44"
+    },
+    {
+      "cardTextEN" : "anything in the friends category at 45",
+      "id" : "74D30EA1-9616-4A15-B08D-819ECAA008E6",
+      "cardTextRU" : "в категории friends не делал что-то под номером 45"
+    },
+    {
+      "cardTextEN" : "anything in the friends category at 46",
+      "id" : "C94D48FB-B971-411A-8CF5-4FEAF13CB274",
+      "cardTextRU" : "в категории friends не делал что-то под номером 46"
+    },
+    {
+      "cardTextEN" : "anything in the friends category at 47",
+      "id" : "209D8220-81B4-4931-B470-26BDC03A3F71",
+      "cardTextRU" : "в категории friends не делал что-то под номером 47"
+    },
+    {
+      "cardTextEN" : "anything in the friends category at 48",
+      "id" : "87FCAE19-2389-4732-8918-F20642E0AE50",
+      "cardTextRU" : "в категории friends не делал что-то под номером 48"
+    },
+    {
+      "cardTextEN" : "anything in the friends category at 49",
+      "id" : "CC9FC3E2-DC2C-4507-9CAB-05C7E70E8213",
+      "cardTextRU" : "в категории friends не делал что-то под номером 49"
+    },
+    {
+      "cardTextEN" : "anything in the friends category at 50",
+      "id" : "42537A5C-C609-476F-9FAD-1B1F887BA0A5",
+      "cardTextRU" : "в категории friends не делал что-то под номером 50"
+    }
+  ]
+}

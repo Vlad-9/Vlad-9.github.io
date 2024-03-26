@@ -1,0 +1,233 @@
+{
+  "title" : "Cinema",
+  "imageName" : "Type-Cinema",
+  "cardsCount" : 0,
+  "category" : "cinema",
+  "cards" : [
+    {
+      "cardTextEN" : "anything in the cinema category at 0",
+      "id" : "7C5DB8A0-5B62-4673-A56A-85560515FBA0",
+      "cardTextRU" : "в категории cinema не делал что-то под номером 0"
+    },
+    {
+      "cardTextEN" : "anything in the cinema category at 1",
+      "id" : "192E3CA8-371A-4000-B026-9900A95DEA04",
+      "cardTextRU" : "в категории cinema не делал что-то под номером 1"
+    },
+    {
+      "cardTextEN" : "anything in the cinema category at 2",
+      "id" : "C0078E45-64C2-44BC-A592-3256A1BBACE5",
+      "cardTextRU" : "в категории cinema не делал что-то под номером 2"
+    },
+    {
+      "cardTextEN" : "anything in the cinema category at 3",
+      "id" : "C0E6F09F-2CAC-456A-87E9-78BD49E8DC63",
+      "cardTextRU" : "в категории cinema не делал что-то под номером 3"
+    },
+    {
+      "cardTextEN" : "anything in the cinema category at 4",
+      "id" : "CD07F9FF-A7F8-4305-A4AD-9B970250A265",
+      "cardTextRU" : "в категории cinema не делал что-то под номером 4"
+    },
+    {
+      "cardTextEN" : "anything in the cinema category at 5",
+      "id" : "9DCBB4DA-2ABF-44B5-8478-E9C46F318DB7",
+      "cardTextRU" : "в категории cinema не делал что-то под номером 5"
+    },
+    {
+      "cardTextEN" : "anything in the cinema category at 6",
+      "id" : "7A06E154-193D-4A7E-888B-95EAC549B5D4",
+      "cardTextRU" : "в категории cinema не делал что-то под номером 6"
+    },
+    {
+      "cardTextEN" : "anything in the cinema category at 7",
+      "id" : "60FE6D58-3BB4-4C15-BF76-785A545DDC09",
+      "cardTextRU" : "в категории cinema не делал что-то под номером 7"
+    },
+    {
+      "cardTextEN" : "anything in the cinema category at 8",
+      "id" : "4E9A945D-5B4B-4D21-B2A7-79CAA3C24833",
+      "cardTextRU" : "в категории cinema не делал что-то под номером 8"
+    },
+    {
+      "cardTextEN" : "anything in the cinema category at 9",
+      "id" : "7AED3004-9AC5-437B-99AB-5E2D77687D28",
+      "cardTextRU" : "в категории cinema не делал что-то под номером 9"
+    },
+    {
+      "cardTextEN" : "anything in the cinema category at 10",
+      "id" : "780BBDE0-4A97-417E-B471-D6BA5DDE2929",
+      "cardTextRU" : "в категории cinema не делал что-то под номером 10"
+    },
+    {
+      "cardTextEN" : "anything in the cinema category at 11",
+      "id" : "88AA18C1-ED15-4A3A-926C-E6724BDFA950",
+      "cardTextRU" : "в категории cinema не делал что-то под номером 11"
+    },
+    {
+      "cardTextEN" : "anything in the cinema category at 12",
+      "id" : "74AA6649-E2C7-4801-965A-4129E56C4923",
+      "cardTextRU" : "в категории cinema не делал что-то под номером 12"
+    },
+    {
+      "cardTextEN" : "anything in the cinema category at 13",
+      "id" : "5804925B-A6A9-424A-B261-4E70992429F9",
+      "cardTextRU" : "в категории cinema не делал что-то под номером 13"
+    },
+    {
+      "cardTextEN" : "anything in the cinema category at 14",
+      "id" : "FDD16FA7-8BE4-426A-8CD7-7ABC1E9FFC85",
+      "cardTextRU" : "в категории cinema не делал что-то под номером 14"
+    },
+    {
+      "cardTextEN" : "anything in the cinema category at 15",
+      "id" : "9725DF00-AD25-44AE-BD34-47D7576588C4",
+      "cardTextRU" : "в категории cinema не делал что-то под номером 15"
+    },
+    {
+      "cardTextEN" : "anything in the cinema category at 16",
+      "id" : "AC289682-D14A-4610-97CF-F3DA61FCD8A6",
+      "cardTextRU" : "в категории cinema не делал что-то под номером 16"
+    },
+    {
+      "cardTextEN" : "anything in the cinema category at 17",
+      "id" : "DD9DAD3D-3409-4E86-BFFD-D523ABA984AD",
+      "cardTextRU" : "в категории cinema не делал что-то под номером 17"
+    },
+    {
+      "cardTextEN" : "anything in the cinema category at 18",
+      "id" : "AA11E1EB-7C28-4F8E-822A-AAAE22E02A9B",
+      "cardTextRU" : "в категории cinema не делал что-то под номером 18"
+    },
+    {
+      "cardTextEN" : "anything in the cinema category at 19",
+      "id" : "9D181892-1E1A-4FF1-90E1-E72465AC2F84",
+      "cardTextRU" : "в категории cinema не делал что-то под номером 19"
+    },
+    {
+      "cardTextEN" : "anything in the cinema category at 20",
+      "id" : "3F602339-0649-4A78-B22D-0D390BE0113B",
+      "cardTextRU" : "в категории cinema не делал что-то под номером 20"
+    },
+    {
+      "cardTextEN" : "anything in the cinema category at 21",
+      "id" : "BACF3BCA-E0D9-49EF-A1BE-54B2B7C2F6F9",
+      "cardTextRU" : "в категории cinema не делал что-то под номером 21"
+    },
+    {
+      "cardTextEN" : "anything in the cinema category at 22",
+      "id" : "29ABD4B0-82FC-4FBD-A33A-7EC7A400661F",
+      "cardTextRU" : "в категории cinema не делал что-то под номером 22"
+    },
+    {
+      "cardTextEN" : "anything in the cinema category at 23",
+      "id" : "5EE2D531-4D73-426F-A8E4-F8EF275BFD44",
+      "cardTextRU" : "в категории cinema не делал что-то под номером 23"
+    },
+    {
+      "cardTextEN" : "anything in the cinema category at 24",
+      "id" : "BD973085-AC3E-4147-A3EA-64562E0D82D9",
+      "cardTextRU" : "в категории cinema не делал что-то под номером 24"
+    },
+    {
+      "cardTextEN" : "anything in the cinema category at 25",
+      "id" : "FBB3D0D9-A864-4483-96A0-00B2BF16C073",
+      "cardTextRU" : "в категории cinema не делал что-то под номером 25"
+    },
+    {
+      "cardTextEN" : "anything in the cinema category at 26",
+      "id" : "42D22BB1-CFD3-470C-B79E-0A4790CDA772",
+      "cardTextRU" : "в категории cinema не делал что-то под номером 26"
+    },
+    {
+      "cardTextEN" : "anything in the cinema category at 27",
+      "id" : "8B93B511-C581-4743-BAC9-341C2616F2BC",
+      "cardTextRU" : "в категории cinema не делал что-то под номером 27"
+    },
+    {
+      "cardTextEN" : "anything in the cinema category at 28",
+      "id" : "F9E0B6A3-D150-4E6B-ACC5-0FDD3B89EADC",
+      "cardTextRU" : "в категории cinema не делал что-то под номером 28"
+    },
+    {
+      "cardTextEN" : "anything in the cinema category at 29",
+      "id" : "E245588A-7DAC-4B81-82AD-2087A5036FAF",
+      "cardTextRU" : "в категории cinema не делал что-то под номером 29"
+    },
+    {
+      "cardTextEN" : "anything in the cinema category at 30",
+      "id" : "ECC19808-5A95-4D50-97A1-CFF8087EE0D3",
+      "cardTextRU" : "в категории cinema не делал что-то под номером 30"
+    },
+    {
+      "cardTextEN" : "anything in the cinema category at 31",
+      "id" : "B1F93365-439E-4956-938A-0C0D2CC82DD5",
+      "cardTextRU" : "в категории cinema не делал что-то под номером 31"
+    },
+    {
+      "cardTextEN" : "anything in the cinema category at 32",
+      "id" : "C0DE0E46-3FD5-49A7-B5D4-604606195904",
+      "cardTextRU" : "в категории cinema не делал что-то под номером 32"
+    },
+    {
+      "cardTextEN" : "anything in the cinema category at 33",
+      "id" : "3CD2C3DE-207F-45AE-97BC-61B96BE571A8",
+      "cardTextRU" : "в категории cinema не делал что-то под номером 33"
+    },
+    {
+      "cardTextEN" : "anything in the cinema category at 34",
+      "id" : "B7D172C5-6E35-43D2-B6F2-DF144BC81E2E",
+      "cardTextRU" : "в категории cinema не делал что-то под номером 34"
+    },
+    {
+      "cardTextEN" : "anything in the cinema category at 35",
+      "id" : "98FB656C-FC20-40DB-8427-660D2422093A",
+      "cardTextRU" : "в категории cinema не делал что-то под номером 35"
+    },
+    {
+      "cardTextEN" : "anything in the cinema category at 36",
+      "id" : "165C11B6-04F2-4B0D-8C45-D7483DDEC8A4",
+      "cardTextRU" : "в категории cinema не делал что-то под номером 36"
+    },
+    {
+      "cardTextEN" : "anything in the cinema category at 37",
+      "id" : "275F52E7-B6AE-4710-9634-5E61518B216F",
+      "cardTextRU" : "в категории cinema не делал что-то под номером 37"
+    },
+    {
+      "cardTextEN" : "anything in the cinema category at 38",
+      "id" : "C8541E7B-08A4-45DD-91E3-5FD3FC378221",
+      "cardTextRU" : "в категории cinema не делал что-то под номером 38"
+    },
+    {
+      "cardTextEN" : "anything in the cinema category at 39",
+      "id" : "2AECAE0D-7A41-471C-B017-E809690E8868",
+      "cardTextRU" : "в категории cinema не делал что-то под номером 39"
+    },
+    {
+      "cardTextEN" : "anything in the cinema category at 40",
+      "id" : "81671871-7834-446E-887D-50606A72A625",
+      "cardTextRU" : "в категории cinema не делал что-то под номером 40"
+    },
+    {
+      "cardTextEN" : "anything in the cinema category at 41",
+      "id" : "E5074A61-39F2-4560-B2E7-9BF176938988",
+      "cardTextRU" : "в категории cinema не делал что-то под номером 41"
+    },
+    {
+      "cardTextEN" : "anything in the cinema category at 42",
+      "id" : "E1AC9F99-F4CD-4BA2-B4D4-8993D505A031",
+      "cardTextRU" : "в категории cinema не делал что-то под номером 42"
+    },
+    {
+      "cardTextEN" : "anything in the cinema category at 43",
+      "id" : "9DC8E9A7-68E8-4ED1-978F-D09F57586C01",
+      "cardTextRU" : "в категории cinema не делал что-то под номером 43"
+    },
+    {
+      "cardTextEN" : "anything in the cinema category at 44",
+      "id" : "4D1A4602-2A99-4C26-A048-69BAD3AAD87E",
+      "cardTextRU" : "в категории cinema не делал что-то под номером 44"
+    }
+  ]
+}

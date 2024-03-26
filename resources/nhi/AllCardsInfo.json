@@ -1,0 +1,58 @@
+{
+  "cardsGroups" : [
+    {
+      "title" : "Couples",
+      "imageName" : "Type-Couples",
+      "cardsCount" : 99,
+      "category" : "couples",
+      "cards" : [
+
+      ]
+    },
+    {
+      "title" : "Party",
+      "imageName" : "Type-Party",
+      "cardsCount" : 89,
+      "category" : "party",
+      "cards" : [
+
+      ]
+    },
+    {
+      "title" : "Fun",
+      "imageName" : "Type-Fun",
+      "cardsCount" : 61,
+      "category" : "fun",
+      "cards" : [
+
+      ]
+    },
+    {
+      "title" : "XXX",
+      "imageName" : "Type-Adult",
+      "cardsCount" : 155,
+      "category" : "adult",
+      "cards" : [
+
+      ]
+    },
+    {
+      "title" : "Cinema",
+      "imageName" : "Type-Cinema",
+      "cardsCount" : 45,
+      "category" : "cinema",
+      "cards" : [
+
+      ]
+    },
+    {
+      "title" : "Friends",
+      "imageName" : "Type-Friends",
+      "cardsCount" : 51,
+      "category" : "friends",
+      "cards" : [
+
+      ]
+    }
+  ]
+}

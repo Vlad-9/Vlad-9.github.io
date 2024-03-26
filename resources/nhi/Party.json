@@ -1,0 +1,453 @@
+{
+  "title" : "Party",
+  "imageName" : "Type-Party",
+  "cardsCount" : 0,
+  "category" : "party",
+  "cards" : [
+    {
+      "cardTextEN" : "anything in the party category at 0",
+      "id" : "75D0BBF3-9052-489B-9633-1C1734385303",
+      "cardTextRU" : "в категории party не делал что-то под номером 0"
+    },
+    {
+      "cardTextEN" : "anything in the party category at 1",
+      "id" : "B0DDA219-E82B-4A32-B671-00EED5781A0B",
+      "cardTextRU" : "в категории party не делал что-то под номером 1"
+    },
+    {
+      "cardTextEN" : "anything in the party category at 2",
+      "id" : "0D938A4F-274A-4F6C-A453-DEAE597B28B7",
+      "cardTextRU" : "в категории party не делал что-то под номером 2"
+    },
+    {
+      "cardTextEN" : "anything in the party category at 3",
+      "id" : "AD7180EC-7932-490E-8838-AE0D2BF14CCA",
+      "cardTextRU" : "в категории party не делал что-то под номером 3"
+    },
+    {
+      "cardTextEN" : "anything in the party category at 4",
+      "id" : "1929FE8E-C74F-4ED4-88E3-3BAABDD44B29",
+      "cardTextRU" : "в категории party не делал что-то под номером 4"
+    },
+    {
+      "cardTextEN" : "anything in the party category at 5",
+      "id" : "0CA04874-A316-478A-8F67-8C8DCEC56F2A",
+      "cardTextRU" : "в категории party не делал что-то под номером 5"
+    },
+    {
+      "cardTextEN" : "anything in the party category at 6",
+      "id" : "3A080BDF-3E4F-4A59-94DE-14EA5A2AA3A8",
+      "cardTextRU" : "в категории party не делал что-то под номером 6"
+    },
+    {
+      "cardTextEN" : "anything in the party category at 7",
+      "id" : "168E1EF3-49CC-4DAD-97CA-010C667A418E",
+      "cardTextRU" : "в категории party не делал что-то под номером 7"
+    },
+    {
+      "cardTextEN" : "anything in the party category at 8",
+      "id" : "0539D77D-FDCB-41DF-9C90-7DE2683BA25D",
+      "cardTextRU" : "в категории party не делал что-то под номером 8"
+    },
+    {
+      "cardTextEN" : "anything in the party category at 9",
+      "id" : "F3ECDC82-D389-4EFF-8E91-9A4682DC69A8",
+      "cardTextRU" : "в категории party не делал что-то под номером 9"
+    },
+    {
+      "cardTextEN" : "anything in the party category at 10",
+      "id" : "66013E96-8B8F-458F-A7DF-1D59DA25F42C",
+      "cardTextRU" : "в категории party не делал что-то под номером 10"
+    },
+    {
+      "cardTextEN" : "anything in the party category at 11",
+      "id" : "E193DC1D-5966-4431-9D7A-A90FAAE88E03",
+      "cardTextRU" : "в категории party не делал что-то под номером 11"
+    },
+    {
+      "cardTextEN" : "anything in the party category at 12",
+      "id" : "F336D5F4-911A-464A-9A85-50184BE8635F",
+      "cardTextRU" : "в категории party не делал что-то под номером 12"
+    },
+    {
+      "cardTextEN" : "anything in the party category at 13",
+      "id" : "74C0C0B4-1E2D-452C-9B3C-FE54F92DD1E2",
+      "cardTextRU" : "в категории party не делал что-то под номером 13"
+    },
+    {
+      "cardTextEN" : "anything in the party category at 14",
+      "id" : "63116258-6849-4207-89E4-095E57B5B389",
+      "cardTextRU" : "в категории party не делал что-то под номером 14"
+    },
+    {
+      "cardTextEN" : "anything in the party category at 15",
+      "id" : "9BC20F66-FC09-4F33-8A39-D690250048EF",
+      "cardTextRU" : "в категории party не делал что-то под номером 15"
+    },
+    {
+      "cardTextEN" : "anything in the party category at 16",
+      "id" : "76DE593E-4BE3-4860-9A00-F356D95D49FC",
+      "cardTextRU" : "в категории party не делал что-то под номером 16"
+    },
+    {
+      "cardTextEN" : "anything in the party category at 17",
+      "id" : "B64D0A29-6F03-422F-84B5-941142F2CE88",
+      "cardTextRU" : "в категории party не делал что-то под номером 17"
+    },
+    {
+      "cardTextEN" : "anything in the party category at 18",
+      "id" : "7F86A96A-A7D8-4880-9509-875A1F9585CB",
+      "cardTextRU" : "в категории party не делал что-то под номером 18"
+    },
+    {
+      "cardTextEN" : "anything in the party category at 19",
+      "id" : "902E0076-7F69-48DD-A33F-9C1EB4C0CBCF",
+      "cardTextRU" : "в категории party не делал что-то под номером 19"
+    },
+    {
+      "cardTextEN" : "anything in the party category at 20",
+      "id" : "BE006DC2-D7B2-41A3-A8F7-7753FC914005",
+      "cardTextRU" : "в категории party не делал что-то под номером 20"
+    },
+    {
+      "cardTextEN" : "anything in the party category at 21",
+      "id" : "1DFBAE33-7053-4008-BB3E-E1E6EA550A2E",
+      "cardTextRU" : "в категории party не делал что-то под номером 21"
+    },
+    {
+      "cardTextEN" : "anything in the party category at 22",
+      "id" : "364D0763-C042-4512-864F-6B8FE5976E39",
+      "cardTextRU" : "в категории party не делал что-то под номером 22"
+    },
+    {
+      "cardTextEN" : "anything in the party category at 23",
+      "id" : "B62247C7-BFC8-42C6-B9CC-9420D05BE64B",
+      "cardTextRU" : "в категории party не делал что-то под номером 23"
+    },
+    {
+      "cardTextEN" : "anything in the party category at 24",
+      "id" : "356771E5-FCBB-459C-AF2B-D08104130FF6",
+      "cardTextRU" : "в категории party не делал что-то под номером 24"
+    },
+    {
+      "cardTextEN" : "anything in the party category at 25",
+      "id" : "F37BD8C2-085A-4098-A543-B9D9D4144A78",
+      "cardTextRU" : "в категории party не делал что-то под номером 25"
+    },
+    {
+      "cardTextEN" : "anything in the party category at 26",
+      "id" : "476394CA-1E4D-4D13-9110-24C985FF2FBB",
+      "cardTextRU" : "в категории party не делал что-то под номером 26"
+    },
+    {
+      "cardTextEN" : "anything in the party category at 27",
+      "id" : "69194008-E97A-46FF-BD05-729798E81861",
+      "cardTextRU" : "в категории party не делал что-то под номером 27"
+    },
+    {
+      "cardTextEN" : "anything in the party category at 28",
+      "id" : "501ACA10-F2A2-4AAD-8113-52B18D830F42",
+      "cardTextRU" : "в категории party не делал что-то под номером 28"
+    },
+    {
+      "cardTextEN" : "anything in the party category at 29",
+      "id" : "38E895BD-62C2-4DA8-B9E5-2F3104D473B4",
+      "cardTextRU" : "в категории party не делал что-то под номером 29"
+    },
+    {
+      "cardTextEN" : "anything in the party category at 30",
+      "id" : "659A4462-48E3-46E5-B836-490CE0043008",
+      "cardTextRU" : "в категории party не делал что-то под номером 30"
+    },
+    {
+      "cardTextEN" : "anything in the party category at 31",
+      "id" : "E6BC68EA-E53F-4E45-9472-D3019A552932",
+      "cardTextRU" : "в категории party не делал что-то под номером 31"
+    },
+    {
+      "cardTextEN" : "anything in the party category at 32",
+      "id" : "EAD45E69-A42F-4FA3-AE12-A9BAB774DAB9",
+      "cardTextRU" : "в категории party не делал что-то под номером 32"
+    },
+    {
+      "cardTextEN" : "anything in the party category at 33",
+      "id" : "E5E05FD2-86B0-46C8-8C8E-4A0CEBB11784",
+      "cardTextRU" : "в категории party не делал что-то под номером 33"
+    },
+    {
+      "cardTextEN" : "anything in the party category at 34",
+      "id" : "F3546A68-78C4-457B-A9CD-52DAEF46140B",
+      "cardTextRU" : "в категории party не делал что-то под номером 34"
+    },
+    {
+      "cardTextEN" : "anything in the party category at 35",
+      "id" : "4E5CBB89-B33C-4D80-B7E2-17008D65CB88",
+      "cardTextRU" : "в категории party не делал что-то под номером 35"
+    },
+    {
+      "cardTextEN" : "anything in the party category at 36",
+      "id" : "6E285FE0-241E-473B-BF85-144C333B1CE6",
+      "cardTextRU" : "в категории party не делал что-то под номером 36"
+    },
+    {
+      "cardTextEN" : "anything in the party category at 37",
+      "id" : "84F5B322-4E85-4224-A6AB-7411CE129AFC",
+      "cardTextRU" : "в категории party не делал что-то под номером 37"
+    },
+    {
+      "cardTextEN" : "anything in the party category at 38",
+      "id" : "70F669A8-1E5F-4EE4-BF96-73F1C60D6FF5",
+      "cardTextRU" : "в категории party не делал что-то под номером 38"
+    },
+    {
+      "cardTextEN" : "anything in the party category at 39",
+      "id" : "6D6FAF4B-F985-4F99-83C7-88D18A316759",
+      "cardTextRU" : "в категории party не делал что-то под номером 39"
+    },
+    {
+      "cardTextEN" : "anything in the party category at 40",
+      "id" : "F6764CDA-D9FF-4899-8A6F-6021E5663843",
+      "cardTextRU" : "в категории party не делал что-то под номером 40"
+    },
+    {
+      "cardTextEN" : "anything in the party category at 41",
+      "id" : "24613C1E-C33D-4550-A8D9-7FBF8F3E8B27",
+      "cardTextRU" : "в категории party не делал что-то под номером 41"
+    },
+    {
+      "cardTextEN" : "anything in the party category at 42",
+      "id" : "B1387182-A0C8-4DF9-9F21-08C39DB90A96",
+      "cardTextRU" : "в категории party не делал что-то под номером 42"
+    },
+    {
+      "cardTextEN" : "anything in the party category at 43",
+      "id" : "9352C359-D52D-4F22-84CA-FB6DD1A1A65A",
+      "cardTextRU" : "в категории party не делал что-то под номером 43"
+    },
+    {
+      "cardTextEN" : "anything in the party category at 44",
+      "id" : "4FFF29CF-ADC7-4EEC-AE78-DA4F4EF08033",
+      "cardTextRU" : "в категории party не делал что-то под номером 44"
+    },
+    {
+      "cardTextEN" : "anything in the party category at 45",
+      "id" : "4BAF9FF4-4EB7-48C6-97D7-9B27BEF1D488",
+      "cardTextRU" : "в категории party не делал что-то под номером 45"
+    },
+    {
+      "cardTextEN" : "anything in the party category at 46",
+      "id" : "AC1D70C4-6BE3-4117-8274-26FCA3454256",
+      "cardTextRU" : "в категории party не делал что-то под номером 46"
+    },
+    {
+      "cardTextEN" : "anything in the party category at 47",
+      "id" : "3678CC71-FBCB-4EB4-ACF6-2A5CB3E77DCC",
+      "cardTextRU" : "в категории party не делал что-то под номером 47"
+    },
+    {
+      "cardTextEN" : "anything in the party category at 48",
+      "id" : "5ABCACF1-F6E9-4A3D-B41F-81B8DADB126F",
+      "cardTextRU" : "в категории party не делал что-то под номером 48"
+    },
+    {
+      "cardTextEN" : "anything in the party category at 49",
+      "id" : "9F979AD7-7D88-4B19-8155-6C31F2E8B2DF",
+      "cardTextRU" : "в категории party не делал что-то под номером 49"
+    },
+    {
+      "cardTextEN" : "anything in the party category at 50",
+      "id" : "C9A4E412-DCD1-404F-8E25-B2397DBB55F1",
+      "cardTextRU" : "в категории party не делал что-то под номером 50"
+    },
+    {
+      "cardTextEN" : "anything in the party category at 51",
+      "id" : "D91C442A-7022-4E86-80A4-31E300CF36FE",
+      "cardTextRU" : "в категории party не делал что-то под номером 51"
+    },
+    {
+      "cardTextEN" : "anything in the party category at 52",
+      "id" : "A52B9A7D-CBB8-4560-9CCF-79D7ABDF3416",
+      "cardTextRU" : "в категории party не делал что-то под номером 52"
+    },
+    {
+      "cardTextEN" : "anything in the party category at 53",
+      "id" : "D23531EC-DA96-4E05-9BE7-0A780D67A904",
+      "cardTextRU" : "в категории party не делал что-то под номером 53"
+    },
+    {
+      "cardTextEN" : "anything in the party category at 54",
+      "id" : "5F5E7A1E-CB52-46DD-A570-7983AD0C51FC",
+      "cardTextRU" : "в категории party не делал что-то под номером 54"
+    },
+    {
+      "cardTextEN" : "anything in the party category at 55",
+      "id" : "1DDC6C0C-C607-4B9D-961B-957E5CF941ED",
+      "cardTextRU" : "в категории party не делал что-то под номером 55"
+    },
+    {
+      "cardTextEN" : "anything in the party category at 56",
+      "id" : "003AD9AD-B170-4401-A586-0853BBE83300",
+      "cardTextRU" : "в категории party не делал что-то под номером 56"
+    },
+    {
+      "cardTextEN" : "anything in the party category at 57",
+      "id" : "09D2A83D-3D6C-48D4-B67E-3AF74601A40A",
+      "cardTextRU" : "в категории party не делал что-то под номером 57"
+    },
+    {
+      "cardTextEN" : "anything in the party category at 58",
+      "id" : "C2BBA0D2-098F-4940-8C01-DAC5FDC44A33",
+      "cardTextRU" : "в категории party не делал что-то под номером 58"
+    },
+    {
+      "cardTextEN" : "anything in the party category at 59",
+      "id" : "36BC339A-DF5D-48C2-B30B-E7AD80BC47E2",
+      "cardTextRU" : "в категории party не делал что-то под номером 59"
+    },
+    {
+      "cardTextEN" : "anything in the party category at 60",
+      "id" : "59520B04-A879-4A8A-929B-948B49CD4B7A",
+      "cardTextRU" : "в категории party не делал что-то под номером 60"
+    },
+    {
+      "cardTextEN" : "anything in the party category at 61",
+      "id" : "87ECB19D-0A56-4945-AC72-D4EC98052CA1",
+      "cardTextRU" : "в категории party не делал что-то под номером 61"
+    },
+    {
+      "cardTextEN" : "anything in the party category at 62",
+      "id" : "87AF18BC-9C26-42EA-914E-71C8A1D2D1E2",
+      "cardTextRU" : "в категории party не делал что-то под номером 62"
+    },
+    {
+      "cardTextEN" : "anything in the party category at 63",
+      "id" : "BD5F44FF-A830-42FD-BE6A-0E4341844DB6",
+      "cardTextRU" : "в категории party не делал что-то под номером 63"
+    },
+    {
+      "cardTextEN" : "anything in the party category at 64",
+      "id" : "F26F246A-F01E-4DC5-BD66-ABE36F1BA9CC",
+      "cardTextRU" : "в категории party не делал что-то под номером 64"
+    },
+    {
+      "cardTextEN" : "anything in the party category at 65",
+      "id" : "A0FD181B-614B-4852-8314-F8F520FEF127",
+      "cardTextRU" : "в категории party не делал что-то под номером 65"
+    },
+    {
+      "cardTextEN" : "anything in the party category at 66",
+      "id" : "2B479F07-F803-44AA-8B1A-8B28169D90F0",
+      "cardTextRU" : "в категории party не делал что-то под номером 66"
+    },
+    {
+      "cardTextEN" : "anything in the party category at 67",
+      "id" : "7589A3C1-7024-4BBB-BC69-07BA694B71E5",
+      "cardTextRU" : "в категории party не делал что-то под номером 67"
+    },
+    {
+      "cardTextEN" : "anything in the party category at 68",
+      "id" : "7A94F85D-3969-402B-9574-F20AED2CC735",
+      "cardTextRU" : "в категории party не делал что-то под номером 68"
+    },
+    {
+      "cardTextEN" : "anything in the party category at 69",
+      "id" : "55C77275-7D10-4AD3-8F05-942A27905A0E",
+      "cardTextRU" : "в категории party не делал что-то под номером 69"
+    },
+    {
+      "cardTextEN" : "anything in the party category at 70",
+      "id" : "F458FA86-D78B-4F26-B8CE-427380857D0F",
+      "cardTextRU" : "в категории party не делал что-то под номером 70"
+    },
+    {
+      "cardTextEN" : "anything in the party category at 71",
+      "id" : "A5EFA3AA-09C9-49B6-A5DA-E7B5A4334520",
+      "cardTextRU" : "в категории party не делал что-то под номером 71"
+    },
+    {
+      "cardTextEN" : "anything in the party category at 72",
+      "id" : "23A5AF08-759F-40CF-B0C1-3D93F633F081",
+      "cardTextRU" : "в категории party не делал что-то под номером 72"
+    },
+    {
+      "cardTextEN" : "anything in the party category at 73",
+      "id" : "F47C555D-336C-466E-983E-ABF2433B31EF",
+      "cardTextRU" : "в категории party не делал что-то под номером 73"
+    },
+    {
+      "cardTextEN" : "anything in the party category at 74",
+      "id" : "03F406AA-CE4B-46B1-80A8-A5946B08DF1B",
+      "cardTextRU" : "в категории party не делал что-то под номером 74"
+    },
+    {
+      "cardTextEN" : "anything in the party category at 75",
+      "id" : "679BA8B3-D82B-49A1-A191-8C8205E3B717",
+      "cardTextRU" : "в категории party не делал что-то под номером 75"
+    },
+    {
+      "cardTextEN" : "anything in the party category at 76",
+      "id" : "B4E6E62E-A286-4F5E-B00E-A4E1E969B103",
+      "cardTextRU" : "в категории party не делал что-то под номером 76"
+    },
+    {
+      "cardTextEN" : "anything in the party category at 77",
+      "id" : "A4F7450E-F776-47FC-96DA-439967C15CE7",
+      "cardTextRU" : "в категории party не делал что-то под номером 77"
+    },
+    {
+      "cardTextEN" : "anything in the party category at 78",
+      "id" : "1BD0E403-D5B6-4C7B-9667-F2B65A51445B",
+      "cardTextRU" : "в категории party не делал что-то под номером 78"
+    },
+    {
+      "cardTextEN" : "anything in the party category at 79",
+      "id" : "0B6D6636-062F-41AC-A3EF-13DA45629F32",
+      "cardTextRU" : "в категории party не делал что-то под номером 79"
+    },
+    {
+      "cardTextEN" : "anything in the party category at 80",
+      "id" : "336DCC86-B8ED-4691-962B-9133D4CA3686",
+      "cardTextRU" : "в категории party не делал что-то под номером 80"
+    },
+    {
+      "cardTextEN" : "anything in the party category at 81",
+      "id" : "2155884D-BA0C-4A37-997C-2836E0731148",
+      "cardTextRU" : "в категории party не делал что-то под номером 81"
+    },
+    {
+      "cardTextEN" : "anything in the party category at 82",
+      "id" : "08469A5F-9402-44B1-9438-F9654F4029F9",
+      "cardTextRU" : "в категории party не делал что-то под номером 82"
+    },
+    {
+      "cardTextEN" : "anything in the party category at 83",
+      "id" : "CADBC765-3788-41DC-B005-7D0BDA2DC156",
+      "cardTextRU" : "в категории party не делал что-то под номером 83"
+    },
+    {
+      "cardTextEN" : "anything in the party category at 84",
+      "id" : "AE8EA16E-4563-4402-AE37-A9A05E6226BA",
+      "cardTextRU" : "в категории party не делал что-то под номером 84"
+    },
+    {
+      "cardTextEN" : "anything in the party category at 85",
+      "id" : "4AB4BA67-55DC-4032-844B-48A8C741A37B",
+      "cardTextRU" : "в категории party не делал что-то под номером 85"
+    },
+    {
+      "cardTextEN" : "anything in the party category at 86",
+      "id" : "C63CE4C9-7E8B-44DB-A1D9-7F3F15A53A0B",
+      "cardTextRU" : "в категории party не делал что-то под номером 86"
+    },
+    {
+      "cardTextEN" : "anything in the party category at 87",
+      "id" : "656510B3-E329-4A3E-89C2-D9642E95E24A",
+      "cardTextRU" : "в категории party не делал что-то под номером 87"
+    },
+    {
+      "cardTextEN" : "anything in the party category at 88",
+      "id" : "61D42A97-40D3-42B1-A1F0-95A854253112",
+      "cardTextRU" : "в категории party не делал что-то под номером 88"
+    }
+  ]
+}
